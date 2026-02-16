@@ -1,0 +1,14 @@
+# External References
+# This file documents external repositories referenced by this project
+
+[reference "plugins/orpc"]
+  url = https://github.com/ahmedrowaihi/openapi-ts-orpc-plugin.git
+  path = plugins/orpc
+  type = plugin
+  description = OpenAPI TS oRPC Plugin
+
+[reference "openapi-ts"]
+  url = https://github.com/hey-api/openapi-ts.git
+  path = openapi-ts
+  type = upstream
+  description = OpenAPI TS - Main upstream repository
