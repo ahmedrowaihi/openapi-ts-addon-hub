@@ -1,0 +1,29 @@
+plugins/faker/.gitignore
+  0824c54670cc8719 1-5
+plugins/faker/package.json
+  0824c54670cc8719 1-69
+README.md
+  0824c54670cc8719 7-8,32-66
+plugins/faker/tsconfig.json
+  0824c54670cc8719 1-5,7-10,12,14-15,19-22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.3",
+  "base_commit_sha": "5d711c5ce8b703c6ca66492f13af8c90fde5abbf",
+  "prompts": {
+    "0824c54670cc8719": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "efff1607-efc7-4fd4-ba44-5346f928b39f",
+        "model": "claude-sonnet-4-5-20250929"
+      },
+      "human_author": "ahmedrowaihi <ahmedrowaihi1@gmail.com>",
+      "messages": [],
+      "total_additions": 142,
+      "total_deletions": 3,
+      "accepted_lines": 127,
+      "overriden_lines": 5
+    }
+  }
+}
