@@ -1,0 +1,23 @@
+README.md
+  0824c54670cc8719 7-8,32-66
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.10",
+  "base_commit_sha": "51ed488502e9146175a75ad8461d36327bc6c896",
+  "prompts": {
+    "0824c54670cc8719": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "efff1607-efc7-4fd4-ba44-5346f928b39f",
+        "model": "claude-sonnet-4-5-20250929"
+      },
+      "human_author": "ahmedrowaihi <ahmedrowaihi1@gmail.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 122,
+      "overriden_lines": 0
+    }
+  }
+}
